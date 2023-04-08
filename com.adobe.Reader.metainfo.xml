@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<component type="desktop-application">
+  <id>com.adobe.Reader</id>
+
+  <name>Adobe Reader</name>
+  <summary>PDF viewer</summary>
+
+  <url type="homepage">http://www.adobe.com/products/reader.html</url>
+  <url type="help">https://helpx.adobe.com/security/products/reader-linux.html</url>
+
+  <metadata_license>CC0-1.0</metadata_license>
+  <project_license>LicenseRef-proprietary=https://www.adobe.com/products/eulas/pdfs/Reader_Player_AIR_WWEULA-Combined-20080204_1313.pdf</project_license>
+
+  <description>
+    <p>
+      Adobe Reader software is the free trusted standard for reliably viewing, printing, and annotating PDF documents. It's the only PDF file viewer that can open and interact with all types of PDF content, including forms and multimedia.
+    </p>
+    <p>NOTE: This wrapper is not verified by, affiliated with, or supported by Adobe.</p>
+  </description>
+
+  <launchable type="desktop-id">com.adobe.Reader.desktop</launchable>
+  <categories>
+    <category>Office</category>
+    <category>Viewer</category>
+  </categories>
+  <content_rating type="oars-1.1"/>
+</component>
