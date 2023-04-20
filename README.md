@@ -1,5 +1,7 @@
 # com.adobe.Reader
 
+Now available on Flathub! https://github.com/flathub/com.adobe.Reader
+
 This is a work-in-progress Flatpak of Acrobat Reader 9.5.5 for Linux
 
 I really which this would just work, but it's broken and produces a `Bad system call` error. If you can help me figure it out, I would be immensely grateful. 
